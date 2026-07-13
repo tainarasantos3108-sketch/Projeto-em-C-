@@ -28,7 +28,7 @@ No vídeo de demonstração do projeto, é possível observar o ciclo completo d
 ## 🎨 Design e Interface
 
 A interface do usuário (UI) conta com uma estilização personalizada que foge do padrão convencional do sistema operacional, trazendo:
-* Banner temático retrô de estúdio musical (*Blondie Music Store*).
+* Banner temático retrô de estúdio musical (*Biblioteca de Música.*).
 * Paleta de cores em tons pastéis e roxos.
 * Caixas de diálogo nativas (Pop-ups) para confirmação de ações, garantindo que o usuário tenha certeza das operações realizadas.
 
@@ -36,8 +36,6 @@ A interface do usuário (UI) conta com uma estilização personalizada que foge 
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 
-*(Nota: Ajuste esta seção de acordo com a linguagem/ferramentas exatas que você usou, por exemplo: Python/Tkinter, Java/Swing, C#/WinForms)*
-
-* **Linguagem:** [Sua Linguagem]
+* **Linguagem:** [CSharp Visual Studio .Net Framework]
 * **Interface Gráfica:** [Sua Biblioteca de GUI]
 * **Arquitetura:** Orientação a Objetos (POO) com manipulação de eventos e estados de tabelas dinâmicas.
