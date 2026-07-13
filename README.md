@@ -1,2 +1,2 @@
-# Projeto-em-C-
-Formulário em C# e Bando de dados SQL.
+# Projeto-em-CSharp
+Formulário em C# e Banco de dados SQL.
